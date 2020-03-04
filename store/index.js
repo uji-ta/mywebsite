@@ -20,7 +20,7 @@ export const mutations = {
 
 export const actions = {
   loadSettings({ commit }, context) {
-    console.log("test")
+    // console.log("test")
     return this.$storyapi.get(`cdn/stories/${context.language}/settings`, {
       version: context.version
     }).then((res) => {
