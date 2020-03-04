@@ -6,9 +6,6 @@
           {{ blogPost.content.name }}
         </nuxt-link>
       </h2>
-      <small>
-        {{ blogPost.published_at }}
-      </small>
       <p>
         {{ blogPost.content.intro }}
       </p>
