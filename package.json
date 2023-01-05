@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "marked": "^0.8.0",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "storyblok-nuxt": "^1.1.0"
   },
   "devDependencies": {
